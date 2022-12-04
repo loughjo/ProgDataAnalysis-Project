@@ -30,11 +30,11 @@ https://github.com/loughjo/ProgDataAnalysis-Project
 
 The Github repository should contain :
 
-* .gitignore
-*ProgDataAnalysisProject.ipynb
-*README.md
-*loan-test.csv
-*loan-train.csv
+* gitignore
+* ProgDataAnalysisProject.ipynb
+* README.md
+* loan-test.csv
+* loan-train.csv
 
 You need to download the contents of the ProgDataAnalysis-Project repository to your local machine.
 I use Anaconda to run my jupyter Notebooks. It's important when you are running the jupyter notebook that 
